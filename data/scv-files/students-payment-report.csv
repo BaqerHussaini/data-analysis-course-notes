@@ -1,0 +1,16 @@
+user_id,name,is_active,marketing_opt_in,has_paid_invoice,paid_for_new_books
+101,Alice Johnson,Active,Yes,TRUE,0
+102,Bob Smith,Inactive,No,FALSE,0
+103,Charlie Brown,Active,Yes,TRUE,1
+104,Dana White,Inactive,No,FALSE,0
+105,Eli Manning,Active,No,TRUE,1
+106,Fiona Gallagher,Inactive,Yes,FALSE,1
+107,George Costanza,Active,No,FALSE,1
+108,Hannah Abbott,Active,Yes,TRUE,0
+109,Ian Malcolm,Inactive,No,FALSE,1
+110,Julia Roberts,Active,Yes,TRUE,0
+111,Kevin Bacon,Active,No,TRUE,0
+112,Luna Lovegood,Inactive,Yes,FALSE,1
+113,Michael Scott,Active,Yes,TRUE,0
+114,Nina Simone,Inactive,No,FALSE,1
+115,Oscar Martinez,Active,Yes,TRUE,1

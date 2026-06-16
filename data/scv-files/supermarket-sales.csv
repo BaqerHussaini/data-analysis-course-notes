@@ -1,0 +1,5 @@
+Product_ID;Category;Units_Sold;Revenue_EUR;Tax_Rate
+P101;Electronics;1.200;14.500,75;0,21
+P102;Groceries;25.450;3.180,50;0,06
+P103;Clothing;450;9.890,00;0,21
+P104;Home;3.000;22.400,25;0,15

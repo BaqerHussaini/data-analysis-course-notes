@@ -1,0 +1,6 @@
+Item_ID,Item_Name,Warehouse,Stock_Level,
+INV-001,Wireless Mouse,North,150,22.50,
+INV-002,Mechanical Keyboard,East,85,79.99
+INV-003,USB-C Hub,West,200,45.00,
+INV-004,Gaming Monitor,North,40,299.99
+INV-005,Ergonomic Chair,South,12,189.50,
